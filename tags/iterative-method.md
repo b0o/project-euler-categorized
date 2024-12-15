@@ -1,0 +1,30 @@
+# Problems tagged 'iterative-method'
+
+[↑ Main Index](../README.md)
+
+24 problems with this tag:
+
+- [255. Rounded Square Roots](../problems/255.md) ([→ PE](https://projecteuler.net/problem=255))
+- [349. Langton's Ant](../problems/349.md) ([→ PE](https://projecteuler.net/problem=349))
+- [359. Hilbert's New Hotel](../problems/359.md) ([→ PE](https://projecteuler.net/problem=359))
+- [426. Box-Ball System](../problems/426.md) ([→ PE](https://projecteuler.net/problem=426))
+- [430. Range Flips](../problems/430.md) ([→ PE](https://projecteuler.net/problem=430))
+- [480. The Last Question](../problems/480.md) ([→ PE](https://projecteuler.net/problem=480))
+- [539. Odd Elimination](../problems/539.md) ([→ PE](https://projecteuler.net/problem=539))
+- [566. Cake Icing Puzzle](../problems/566.md) ([→ PE](https://projecteuler.net/problem=566))
+- [611. Hallway of Square Steps](../problems/611.md) ([→ PE](https://projecteuler.net/problem=611))
+- [640. Shut the Box](../problems/640.md) ([→ PE](https://projecteuler.net/problem=640))
+- [641. A Long Row of Dice](../problems/641.md) ([→ PE](https://projecteuler.net/problem=641))
+- [663. Sums of Subarrays](../problems/663.md) ([→ PE](https://projecteuler.net/problem=663))
+- [672. One More One](../problems/672.md) ([→ PE](https://projecteuler.net/problem=672))
+- [680. Yarra Gnisrever](../problems/680.md) ([→ PE](https://projecteuler.net/problem=680))
+- [726. Falling Bottles](../problems/726.md) ([→ PE](https://projecteuler.net/problem=726))
+- [729. Range of Periodic Sequence](../problems/729.md) ([→ PE](https://projecteuler.net/problem=729))
+- [740. Secret Santa](../problems/740.md) ([→ PE](https://projecteuler.net/problem=740))
+- [819. Iterative Sampling](../problems/819.md) ([→ PE](https://projecteuler.net/problem=819))
+- [852. Coins in a Box](../problems/852.md) ([→ PE](https://projecteuler.net/problem=852))
+- [857. Beautiful Graphs](../problems/857.md) ([→ PE](https://projecteuler.net/problem=857))
+- [863. Different Dice](../problems/863.md) ([→ PE](https://projecteuler.net/problem=863))
+- [894. Spiral of Circles](../problems/894.md) ([→ PE](https://projecteuler.net/problem=894))
+- [897. Maximal $n$-gon in a region](../problems/897.md) ([→ PE](https://projecteuler.net/problem=897))
+- [901. Well Drilling](../problems/901.md) ([→ PE](https://projecteuler.net/problem=901))
