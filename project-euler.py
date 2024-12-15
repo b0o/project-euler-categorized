@@ -429,7 +429,7 @@ class MarkdownGenerator:
 
             with open(page_path, 'w') as f:
                 f.write(f"# [{problem['title']}]({problem['url']}) ↗️\n\n")
-                f.write(f"{problem['difficulty']}\n")
+                f.write(f"{problem['difficulty']}\n\n")
                 f.write(f"Solved by: {self.format_solved_by(problem['solved_by'])} users\n")
 
                 # Add tags section
